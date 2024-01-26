@@ -1,12 +1,14 @@
-### Hi there 👋
-#### MY Name is HR.JEON 🤖 & a semiconductor engineer
+<h2>Hi there 👋</h2>
+MY Name is HR.JEON 🤖 & a semiconductor engineer<br /><br />
 - 💬 Ask me about ...<br />
   I am studying language that interested in developing an automation program
 
 
+<br />
 
-### MY tech stack 🤔
-![Perl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<h2>MY tech stack 🤔</h2>
+<br />
+![Perl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br />
 ![Python](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white)
 
 <!--
