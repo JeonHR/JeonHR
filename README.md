@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-MY Name HR.JEON 🤖 & s a semiconductor engineer<br /><br />
+MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 
 💬 why to study code ...<br />
 - interested in developing an automation program
