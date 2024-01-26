@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### MY Name is HR.JEON 🤖 & a semiconductor engineer
+##### I am studying language that interested in developing an automation program
+
 
 <!--
 **JeonHR/JeonHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
