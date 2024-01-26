@@ -1,7 +1,13 @@
 ### Hi there 👋
 #### MY Name is HR.JEON 🤖 & a semiconductor engineer
-##### I am studying language that interested in developing an automation program
+- 💬 Ask me about ...<br />
+  I am studying language that interested in developing an automation program
 
+
+
+### MY tech stack 🤔
+![Perl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Python](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white)
 
 <!--
 **JeonHR/JeonHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
