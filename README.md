@@ -11,4 +11,3 @@ MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 
 ![Perl](https://img.shields.io/badge/Perl-D14836?style=for-the-badge&logo=Perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-07C160?style=for-the-badge&logo=Python&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-00B2FF?style=for-the-badge&logo=Batch&logoColor=white)
