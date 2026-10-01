@@ -11,11 +11,11 @@ MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 
 <h2>What I Do</h2>
 
-Semiconductor Test Process
-Test Data Analysis
-Yield / Defect Analysis
-Process & Equipment Troubleshooting
-Automation & Visualization
+- Semiconductor Test Process
+- Test Data Analysis
+- Yield / Defect Analysis
+- Process & Equipment Troubleshooting
+- Automation & Visualization
 
 <br />
 
