@@ -24,3 +24,13 @@ MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 ![Perl](https://img.shields.io/badge/Perl-00AFF0?style=for-the-badge&logo=Perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-07C160?style=for-the-badge&logo=Python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-2CA5E0?style=for-the-badge&logo=Shell&logoColor=white)
+
+<br />
+
+<h2>Currently Interested In</h2>
+
+- Test Data Monitoring
+- Anomaly Detection
+- Semiconductor Defect Analysis
+- Production Automation
+- Python-based Engineering Tools
