@@ -6,7 +6,6 @@ MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 - I use code to analyze Test Data and solve production problems
 - I'm interested in building practical tools that improve work efficiency
 
-
 <br />
 
 <h2>What I Do</h2>
