@@ -2,6 +2,7 @@
 MY Name HR.JEON 🤖 & semiconductor ENG<br /><br />
 
 <h2>About Me</h2>
+
 💬 why to study code ...<br />
 - I enjoy automating repetitive tasks in semiconductor manufacturing
 - I use code to analyze Test Data and solve production problems
